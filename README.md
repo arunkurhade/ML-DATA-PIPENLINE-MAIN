@@ -1,2 +1,2 @@
-# ML-DATA-PIPENLINE-MAIN
+# ML-DATA-PIPELINE-MAIN
 Sensor fault detection
